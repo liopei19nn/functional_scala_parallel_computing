@@ -1,0 +1,2 @@
+For vertical: speed up is 2.388
+For horizontal: speed up is 3.30
