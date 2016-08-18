@@ -45,7 +45,7 @@ object VerticalBoxBlur {
   def blur(src: Img, dst: Img, from: Int, end: Int, radius: Int): Unit = {
     // TODO implement this method using the `boxBlurKernel` method
     for (
-      x <- from to end if x >= 0 && x < src.width;
+      x <- from until end if x >= 0 && x < src.width;
       y <- 0 until src.height
     ) dst.update(x, y, boxBlurKernel(src, x, y, radius))
   }
@@ -76,7 +76,7 @@ object VerticalBoxBlur {
     val tasks = workLoad map (
         w => {
           task {
-            blur(src, dst, w.head, w.head + w.length - 1, radius)
+            blur(src, dst, w.head, w.head + w.length, radius)
           }
         }
       )

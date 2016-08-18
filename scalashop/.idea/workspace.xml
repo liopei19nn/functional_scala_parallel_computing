@@ -19,43 +19,25 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DockManager">
-    <window id="2">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="test.sc" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/test.sc">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="216">
-                    <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
     <window id="1">
       <content type="file-editors">
         <state>
-          <leaf>
-            <file leaf-file-name="MeasureBuilder.scala" pinned="false" current-in-tab="true">
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file leaf-file-name="MeasureBuilder.scala" pinned="false" current-in-tab="false">
               <entry file="jar://$USER_HOME$/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/MeasureBuilder.scala">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="180">
-                    <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+                  <state relative-caret-position="219">
+                    <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
                     <folding />
                   </state>
                 </provider>
               </entry>
             </file>
-            <file leaf-file-name="VerticalBoxBlur.scala" pinned="false" current-in-tab="false">
+            <file leaf-file-name="VerticalBoxBlur.scala" pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="256">
-                    <caret line="47" column="49" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="49" />
+                  <state relative-caret-position="274">
+                    <caret line="55" column="70" selection-start-line="55" selection-start-column="70" selection-end-line="55" selection-end-column="70" />
                     <folding />
                   </state>
                 </provider>
@@ -77,21 +59,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/common/package.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlurSuite.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BlurSuite.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/BlurSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <state relative-caret-position="1188">
+              <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -100,31 +72,11 @@
       <file leaf-file-name="HorizontalBoxBlur.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-600">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state relative-caret-position="402">
+              <caret line="80" column="51" selection-start-line="80" selection-start-column="51" selection-end-line="80" selection-end-column="51" />
               <folding>
                 <element signature="e#19#42#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/package.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="882">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScalaShop.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/ScalaShop.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -147,10 +99,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/scala/scalashop/package.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/scalashop/test.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/scalashop/BlurSuite.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala" />
       </list>
     </option>
   </component>
@@ -162,10 +114,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="23" />
-    <option name="width" value="1436" />
-    <option name="height" value="877" />
+    <option name="x" value="1440" />
+    <option name="y" value="-231" />
+    <option name="width" value="1200" />
+    <option name="height" value="948" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -192,6 +144,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -410,15 +364,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="verti&#9;FILE&#9;file:///Users/li.pei/Documents/scala_learn/functional_scala_parallel_computing/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala&#10;rgba&#9;null&#9;null" />
   </component>
-  <component name="RunManager" selected="Application.ScalaShop">
+  <component name="RunManager" selected="JUnit.BlurSuite">
     <configuration default="false" name="BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="root" />
@@ -803,11 +755,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ScalaShop" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HorizontalBoxBlurRunner" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.BlurSuite" />
-        <item index="3" class="java.lang.String" itemvalue="ScalaTest.BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" />
-        <item index="4" class="java.lang.String" itemvalue="ScalaTest.BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.BlurSuite" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ScalaShop" />
+        <item index="4" class="java.lang.String" itemvalue="Application.HorizontalBoxBlurRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -878,34 +830,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BlurSuite - 2016.08.17 at 00h 59m 51s.xml">
+    <history-entry file="BlurSuite - 2016.08.17 at 22h 12m 53s.xml">
       <configuration name="BlurSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BlurSuite_HorizontalBoxBlur_blur_with_radius_1_should_correctly_blur_the_entire_3x3_image - 2016.08.17 at 00h 37m 14s.xml">
-      <configuration name="BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="BlurSuite_HorizontalBoxBlur_blur_with_radius_1_should_correctly_blur_the_entire_3x3_image - 2016.08.17 at 00h 41m 24s.xml">
-      <configuration name="BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="BlurSuite_HorizontalBoxBlur_blur_with_radius_1_should_correctly_blur_the_entire_3x3_image - 2016.08.17 at 00h 47m 19s.xml">
-      <configuration name="BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="BlurSuite_HorizontalBoxBlur_blur_with_radius_1_should_correctly_blur_the_entire_3x3_image - 2016.08.17 at 00h 51m 05s.xml">
-      <configuration name="BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="BlurSuite_HorizontalBoxBlur_blur_with_radius_1_should_correctly_blur_the_entire_3x3_image - 2016.08.17 at 00h 53m 02s.xml">
-      <configuration name="BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="BlurSuite_HorizontalBoxBlur_blur_with_radius_1_should_correctly_blur_the_entire_3x3_image - 2016.08.17 at 00h 56m 48s.xml">
-      <configuration name="BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="BlurSuite - 2016.08.17 at 22h 17m 42s.xml">
+      <configuration name="BlurSuite" configurationId="JUnit" />
     </history-entry>
     <history-entry file="BlurSuite_HorizontalBoxBlur_blur_with_radius_1_should_correctly_blur_the_entire_3x3_image - 2016.08.17 at 00h 56m 55s.xml">
+      <configuration name="BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BlurSuite_HorizontalBoxBlur_blur_with_radius_1_should_correctly_blur_the_entire_3x3_image - 2016.08.17 at 22h 12m 35s.xml">
       <configuration name="BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
     <history-entry file="BlurSuite_VerticalBoxBlur_blur_with_radius_2_should_correctly_blur_the_entire_4x3_image - 2016.08.17 at 00h 19m 18s.xml">
       <configuration name="BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
     <history-entry file="BlurSuite_VerticalBoxBlur_blur_with_radius_2_should_correctly_blur_the_entire_4x3_image - 2016.08.17 at 00h 44m 03s.xml">
+      <configuration name="BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BlurSuite_VerticalBoxBlur_blur_with_radius_2_should_correctly_blur_the_entire_4x3_image - 2016.08.17 at 22h 12m 44s.xml">
+      <configuration name="BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BlurSuite_VerticalBoxBlur_blur_with_radius_2_should_correctly_blur_the_entire_4x3_image - 2016.08.17 at 22h 15m 58s.xml">
+      <configuration name="BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BlurSuite_VerticalBoxBlur_blur_with_radius_2_should_correctly_blur_the_entire_4x3_image - 2016.08.17 at 22h 16m 11s.xml">
+      <configuration name="BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="BlurSuite_VerticalBoxBlur_blur_with_radius_2_should_correctly_blur_the_entire_4x3_image - 2016.08.17 at 22h 16m 36s.xml">
       <configuration name="BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
   </component>
@@ -919,34 +871,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1436" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="1440" y="-231" width="1200" height="948" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5028694" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299363" sideWeight="0.49713057" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943925" sideWeight="0.49713057" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21879484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26338515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -955,7 +907,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -964,6 +916,56 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/common/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/BlurSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#19#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/ScalaShop.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/test.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/common/package.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -1007,22 +1009,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/common/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="47" column="49" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/test.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1031,35 +1017,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/MeasureBuilder.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/common/package.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="510">
+          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/BlurSuite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding>
-            <element signature="e#19#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/package.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
+        <state relative-caret-position="510">
           <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding />
         </state>
@@ -1067,8 +1035,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/ScalaShop.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+        <state relative-caret-position="450">
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="80" column="51" selection-start-line="80" selection-start-column="51" selection-end-line="80" selection-end-column="51" />
+          <folding>
+            <element signature="e#19#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/MeasureBuilder.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="55" column="70" selection-start-line="55" selection-start-column="70" selection-end-line="55" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/BlurSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="71" column="4" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
           <folding />
         </state>
       </provider>

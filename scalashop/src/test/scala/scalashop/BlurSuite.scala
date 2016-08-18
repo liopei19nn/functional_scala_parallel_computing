@@ -54,9 +54,9 @@ class BlurSuite extends FunSuite {
     check(0, 1, 3)
     check(1, 1, 4)
     check(2, 1, 4)
-    check(0, 2, 5)
-    check(1, 2, 5)
-    check(2, 2, 6)
+    check(0, 2, 0)
+    check(1, 2, 0)
+    check(2, 2, 0)
   }
 
   test("VerticalBoxBlur.blur with radius 2 should correctly blur the entire " +

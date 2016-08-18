@@ -45,7 +45,7 @@ object HorizontalBoxBlur {
     // TODO implement this method using the `boxBlurKernel` method
 
     for(
-      y <- from to end if y >= 0 && y < src.height;
+      y <- from until end if y >= 0 && y < src.height;
       x <- 0 until src.width
     ) dst.update(x, y, boxBlurKernel(src, x, y, radius))
   }
@@ -78,7 +78,7 @@ object HorizontalBoxBlur {
     val tasks = workLoad map (
       w => {
         task {
-          blur(src, dst, w.head, w.head + w.length - 1, radius)
+          blur(src, dst, w.head, w.head + w.length , radius)
         }
       }
       )
