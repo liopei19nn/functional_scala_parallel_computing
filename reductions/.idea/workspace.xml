@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd728b21-a051-4104-ae59-01bda5b95c86" name="Default" comment="" />
-    <ignored path="parprog1-scalashop.iws" />
+    <list default="true" id="3f8b0aa1-f005-4464-9895-95ef2923cee5" name="Default" comment="" />
+    <ignored path="parprog1-reductions.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -15,38 +15,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/parprog1-reductions$ParallelCountChangeSuite.coverage" NAME="ParallelCountChangeSuite Coverage Results" MODIFIED="1472092315138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>reductions.*</FILTER>
+    </SUITE>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="MeasureBuilder.scala" pinned="false" current-in-tab="false">
-              <entry file="jar://$USER_HOME$/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/MeasureBuilder.scala">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="219">
-                    <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="VerticalBoxBlur.scala" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="274">
-                    <caret line="55" column="70" selection-start-line="55" selection-start-column="70" selection-end-line="55" selection-end-column="70" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="ExternalProjectsData">
@@ -55,40 +30,41 @@
     </projectState>
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="parprog1-scalashop" />
+    <favorites_list name="parprog1-reductions" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BlurSuite.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/BlurSuite.scala">
+      <file leaf-file-name="LineOfSightSuite.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/reductions/LineOfSightSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            <state relative-caret-position="360">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HorizontalBoxBlur.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala">
+      <file leaf-file-name="LineOfSight.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/reductions/LineOfSight.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="80" column="51" selection-start-line="80" selection-start-column="51" selection-end-line="80" selection-end-column="51" />
-              <folding>
-                <element signature="e#19#42#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="120" column="65" selection-start-line="120" selection-start-column="65" selection-end-line="120" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParallelParenthesesBalancing.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/reductions/ParallelParenthesesBalancing.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Scala Worksheet" />
-      </list>
-    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -98,26 +74,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/scalashop/package.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/scalashop/test.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/scalashop/BlurSuite.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/reductions/ParallelCountChange.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/reductions/ParallelParenthesesBalancing.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/reductions/LineOfSight.scala" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1440" />
-    <option name="y" value="-231" />
-    <option name="width" value="1200" />
-    <option name="height" value="948" />
+    <option name="x" value="4" />
+    <option name="y" value="23" />
+    <option name="width" value="1436" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -144,33 +111,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="parprog1-scalashop" />
+              <option name="myItemId" value="parprog1-reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="parprog1-scalashop" />
+              <option name="myItemId" value="parprog1-reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scalashop" />
+              <option name="myItemId" value="reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="parprog1-scalashop" />
+              <option name="myItemId" value="parprog1-reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scalashop" />
+              <option name="myItemId" value="reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -186,17 +154,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scalashop" />
+              <option name="myItemId" value="reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="parprog1-scalashop" />
+              <option name="myItemId" value="parprog1-reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scalashop" />
+              <option name="myItemId" value="reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -212,21 +180,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scalashop" />
+              <option name="myItemId" value="reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="VerticalBoxBlur.scala" />
+              <option name="myItemId" value="ParallelParenthesesBalancing.scala" />
               <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="parprog1-scalashop" />
+              <option name="myItemId" value="parprog1-reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scalashop" />
+              <option name="myItemId" value="reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -242,47 +210,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scalashop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parprog1-scalashop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scalashop" />
+              <option name="myItemId" value="reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scalashop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="package.scala" />
+              <option name="myItemId" value="ParallelCountChange.scala" />
               <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="parprog1-scalashop" />
+              <option name="myItemId" value="parprog1-reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scalashop" />
+              <option name="myItemId" value="reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -298,21 +240,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scalashop" />
+              <option name="myItemId" value="reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HorizontalBoxBlur.scala" />
+              <option name="myItemId" value="LineOfSight.scala" />
               <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="parprog1-scalashop" />
+              <option name="myItemId" value="parprog1-reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scalashop" />
+              <option name="myItemId" value="reductions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -336,83 +278,78 @@
               <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parprog1-scalashop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scalashop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scalashop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="verti&#9;FILE&#9;file:///Users/li.pei/Documents/scala_learn/functional_scala_parallel_computing/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala&#10;rgba&#9;null&#9;null" />
-  </component>
-  <component name="RunManager" selected="JUnit.BlurSuite">
-    <configuration default="false" name="BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="root" />
-      <setting name="path" value="scalashop.BlurSuite" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" />
-      <setting name="testKind" value="Test name" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="root" />
-      <setting name="path" value="scalashop.BlurSuite" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" />
-      <setting name="testKind" value="Test name" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="BlurSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ParallelParenthesesBalancingRunner">
+    <configuration default="false" name="ParallelCountChangeRunner" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="scalashop.*" />
+          <option name="PATTERN" value="reductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="reductions.ParallelCountChangeRunner" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="root" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ParallelParenthesesBalancingSuite" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="root" />
+      <setting name="path" value="reductions.ParallelParenthesesBalancingSuite" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ParallelParenthesesBalancingRunner" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="reductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="reductions.ParallelParenthesesBalancingRunner" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="root" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="LineOfSightSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="reductions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="root" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="scalashop" />
-      <option name="MAIN_CLASS_NAME" value="scalashop.BlurSuite" />
+      <option name="PACKAGE_NAME" value="reductions" />
+      <option name="MAIN_CLASS_NAME" value="reductions.LineOfSightSuite" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -427,34 +364,14 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="HorizontalBoxBlurRunner" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="LineOfSightRunner" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="scalashop.*" />
+          <option name="PATTERN" value="reductions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="scalashop.HorizontalBoxBlurRunner" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="root" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ScalaShop" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="scalashop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="scalashop.ScalaShop" />
+      <option name="MAIN_CLASS_NAME" value="reductions.LineOfSightRunner" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -747,30 +664,30 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="ScalaTest.BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" />
-      <item index="1" class="java.lang.String" itemvalue="ScalaTest.BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.BlurSuite" />
-      <item index="3" class="java.lang.String" itemvalue="Application.HorizontalBoxBlurRunner" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ScalaShop" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ParallelCountChangeRunner" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.ParallelParenthesesBalancingSuite" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ParallelParenthesesBalancingRunner" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.LineOfSightSuite" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LineOfSightRunner" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BlurSuite" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ScalaShop" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HorizontalBoxBlurRunner" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ParallelParenthesesBalancingRunner" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LineOfSightRunner" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LineOfSightSuite" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.ParallelParenthesesBalancingSuite" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ParallelCountChangeRunner" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1471314838312" />
+    <option name="lastUpdateTimestamp" value="1472086854431" />
     <option name="availableProjects">
       <map>
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="parprog1-scalashop" />
+              <option name="name" value="parprog1-reductions" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
@@ -807,6 +724,7 @@
         <entry key="$PROJECT_DIR$/../../functional_program_principle_in_scala/recfun" value="1462387130000" />
         <entry key="$PROJECT_DIR$/../../functional_reactive_programming/example" value="1428961342000" />
         <entry key="$PROJECT_DIR$/../../functional_reactive_programming/quickcheck" value="1429590132000" />
+        <entry key="$PROJECT_DIR$/../scalashop" value="1465250294000" />
       </map>
     </option>
     <option name="externalProjectsViewState">
@@ -816,88 +734,77 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fd728b21-a051-4104-ae59-01bda5b95c86" name="Default" comment="" />
-      <created>1471314818334</created>
+      <changelist id="3f8b0aa1-f005-4464-9895-95ef2923cee5" name="Default" comment="" />
+      <created>1472086838511</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1471314818334</updated>
+      <updated>1472086838511</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BlurSuite - 2016.08.17 at 22h 12m 53s.xml">
-      <configuration name="BlurSuite" configurationId="JUnit" />
+    <history-entry file="LineOfSightSuite - 2016.08.25 at 23h 47m 21s.xml">
+      <configuration name="LineOfSightSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BlurSuite - 2016.08.17 at 22h 17m 42s.xml">
-      <configuration name="BlurSuite" configurationId="JUnit" />
+    <history-entry file="LineOfSightSuite - 2016.08.25 at 23h 50m 28s.xml">
+      <configuration name="LineOfSightSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BlurSuite_HorizontalBoxBlur_blur_with_radius_1_should_correctly_blur_the_entire_3x3_image - 2016.08.17 at 00h 56m 55s.xml">
-      <configuration name="BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="LineOfSightSuite - 2016.08.26 at 00h 05m 02s.xml">
+      <configuration name="LineOfSightSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BlurSuite_HorizontalBoxBlur_blur_with_radius_1_should_correctly_blur_the_entire_3x3_image - 2016.08.17 at 22h 12m 35s.xml">
-      <configuration name="BlurSuite.HorizontalBoxBlur.blur with radius 1 should correctly blur the entire 3x3 image" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="LineOfSightSuite - 2016.08.26 at 00h 07m 01s.xml">
+      <configuration name="LineOfSightSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BlurSuite_VerticalBoxBlur_blur_with_radius_2_should_correctly_blur_the_entire_4x3_image - 2016.08.17 at 00h 19m 18s.xml">
-      <configuration name="BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="LineOfSightSuite - 2016.08.26 at 00h 37m 48s.xml">
+      <configuration name="LineOfSightSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BlurSuite_VerticalBoxBlur_blur_with_radius_2_should_correctly_blur_the_entire_4x3_image - 2016.08.17 at 00h 44m 03s.xml">
-      <configuration name="BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="ParallelCountChangeSuite - 2016.08.24 at 22h 31m 48s.xml">
+      <configuration name="ParallelCountChangeSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BlurSuite_VerticalBoxBlur_blur_with_radius_2_should_correctly_blur_the_entire_4x3_image - 2016.08.17 at 22h 12m 44s.xml">
-      <configuration name="BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="ParallelCountChangeSuite - 2016.08.24 at 22h 31m 56s.xml">
+      <configuration name="ParallelCountChangeSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BlurSuite_VerticalBoxBlur_blur_with_radius_2_should_correctly_blur_the_entire_4x3_image - 2016.08.17 at 22h 15m 58s.xml">
-      <configuration name="BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="ParallelParenthesesBalancingSuite - 2016.08.24 at 23h 43m 36s.xml">
+      <configuration name="ParallelParenthesesBalancingSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="BlurSuite_VerticalBoxBlur_blur_with_radius_2_should_correctly_blur_the_entire_4x3_image - 2016.08.17 at 22h 16m 11s.xml">
-      <configuration name="BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="ParallelParenthesesBalancingSuite - 2016.08.24 at 23h 43m 45s.xml">
+      <configuration name="ParallelParenthesesBalancingSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="BlurSuite_VerticalBoxBlur_blur_with_radius_2_should_correctly_blur_the_entire_4x3_image - 2016.08.17 at 22h 16m 36s.xml">
-      <configuration name="BlurSuite.VerticalBoxBlur.blur with radius 2 should correctly blur the entire 4x3 image" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="ParallelParenthesesBalancingSuite - 2016.08.24 at 23h 43m 56s.xml">
+      <configuration name="ParallelParenthesesBalancingSuite" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-231" width="1200" height="948" extended-state="0" />
+    <frame x="4" y="23" width="1436" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5028694" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943925" sideWeight="0.49713057" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26338515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19225252" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -906,9 +813,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="8" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -916,161 +821,81 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/reductions/LineOfSightSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/reductions/LineOfSight.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2934">
+          <caret line="211" column="22" selection-start-line="211" selection-start-column="22" selection-end-line="211" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/reductions/ParallelCountChangeSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/reductions/ParallelParenthesesBalancingSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/common/package.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        <state relative-caret-position="738">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/BlurSuite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/reductions/ParallelCountChange.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding>
-            <element signature="e#19#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/ScalaShop.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/reductions/LineOfSightSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+        <state relative-caret-position="360">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/test.sc">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/reductions/ParallelParenthesesBalancing.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/common/package.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/reductions/LineOfSight.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/BlurSuite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/scalashop/scala.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar!/sun/awt/image/PixelConverter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="190" column="24" selection-start-line="190" selection-start-column="24" selection-end-line="190" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/PhotoCanvas.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-960">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/test.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/common/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/ScalaShop.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="80" column="51" selection-start-line="80" selection-start-column="51" selection-end-line="80" selection-end-column="51" />
-          <folding>
-            <element signature="e#19#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/srcs/scalameter-core_2.11-0.6-sources.jar!/org/scalameter/MeasureBuilder.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="55" column="70" selection-start-line="55" selection-start-column="70" selection-end-line="55" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/scalashop/BlurSuite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        <state relative-caret-position="323">
+          <caret line="120" column="65" selection-start-line="120" selection-start-column="65" selection-end-line="120" selection-end-column="65" />
           <folding />
         </state>
       </provider>
