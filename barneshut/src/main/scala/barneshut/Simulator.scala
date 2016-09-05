@@ -27,8 +27,6 @@ class Simulator(val taskSupport: TaskSupport, val timeStats: TimeStatistics) {
 	def computeBoundaries(bodies: Seq[Body]): Boundaries = timeStats.timed("boundaries") {
 		val parBodies = bodies.par
 		parBodies.tasksupport = taskSupport
-		// updateBoundaries will be implemented in parallel, and then
-		// merged to one boundary
 		parBodies.aggregate(new Boundaries)(updateBoundaries, mergeBoundaries)
 	}
 
